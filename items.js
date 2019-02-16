@@ -20,5 +20,6 @@ let items = [
     "aber ähm",
     "war gewesen",
     "Phil leakt seine Daten ausversehen",
-    "Shout out an meinen boi"
+    "Shout out an meinen boi",
+    "Markus macht den Stromberg"
 ]
