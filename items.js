@@ -11,7 +11,6 @@ let items = [
     "Markus ist müde",
     "diZee Sprach- nachricht",
     "Mein Audacity ist abgestürzt",
-    "Inkontinenz",
     "Einer ist Gast",
     "Überleitung nicht geklappt",
     "Markus moderiert ab",
@@ -22,5 +21,7 @@ let items = [
     "Phil leakt seine Daten ausversehen",
     "Shout out an meinen boi",
     "Markus macht den Stromberg",
-    "Auf gewohnt gutem Niveau"
+    "Auf gewohnt gutem Niveau",
+    "Konstitu- tionelle Monarchie",
+    "Anderer Podcast wird thematisiert"
 ]
