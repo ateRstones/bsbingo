@@ -23,5 +23,10 @@ let items = [
     "Markus macht den Stromberg",
     "Auf gewohnt gutem Niveau",
     "Konstitu- tionelle Monarchie",
-    "Anderer Podcast wird thematisiert"
+    "Anderer Podcast wird thematisiert",
+    "Livetour",
+    "Patreon",
+    "Künstlerische Freiheit",
+    "Beziehungs- kram",
+    "Es wird erzählt, was Donnerstag getan wird"
 ]
