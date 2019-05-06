@@ -28,5 +28,6 @@ let items = [
     "Patreon",
     "Künstlerische Freiheit",
     "Beziehungs- kram",
-    "Es wird erzählt, was Donnerstag getan wird"
+    "Es wird erzählt, was Donnerstag getan wird",
+    "Käsekuchen"
 ]
