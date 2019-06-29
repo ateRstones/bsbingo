@@ -23,5 +23,6 @@ let items = [
     "Stream geht aus",
     "MP Server sind aus",
     "Moderator sagt den falschen Spielernamen",
-    "Magican wird geflamed"
+    "Magican wird geflamed",
+    "Map benötigt Mapping Extensions"
 ]
